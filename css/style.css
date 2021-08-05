@@ -5,6 +5,9 @@
     -moz-user-select:none;
     -ms-user-select:none;
     user-select:none;
+    overflow:hidden;
+    white-space:nowrap; 
+    text-overflow:ellipsis; 
 }
 .container{
     height: 338px;
