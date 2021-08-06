@@ -59,65 +59,67 @@
 }
 .sx{
     position: absolute;
-    width: 55px;
+    width: 57px;
     background-color: rgb(85,85,85);
     color: #FFF;
     border:0;
     z-index: 999;
     height: 16px;
     text-align: center;
-    font-size: 13px;
-    line-height: 13px;
-    height: 15px;
+    font-size: 14px;
+    line-height: 14px;
+
 }
 .gjl{
-    left: 95px;
-    top: 51.4%;
+    left: 94.5px;
+    top: 172.5px;
 }
 .sm{
-    left: 95px;
-    top: 59.5%;
+    left: 94.5px;
+    top: 200.5px;
 }
 .bj{
-    left: 95px;
-    top: 68%;
+    left: 94.5px;
+    top: 228.5px;
 }
 .lq{
-    left: 95px;
-    top: 76%;
+    left: 94.5px;
+    top: 256.5px;
 }
 .cj{
-    left: 95px;
-    top: 84.5%;
+    left: 94.5px;
+    top: 284.5px;
 }
 .hp{
-    left: 95px;
-    top: 92.5%;
+    left: 94.5px;
+    top: 312.5px;
 }
 .hjz{
-    top: 51.4%;
-    left: 257px;
+    top: 172.5px;
+    left: 256.5px;
 }
 .nengl{
-    top: 59.5%;
-    left: 257px;
+    top: 200.5px;
+    left: 256.5px;
 }
 .bs{
-    top: 68%;
-    left: 257px;
+    top: 228.5px;
+    left: 256.5px;
 }
 .jn{
-    top: 76%;
-    left: 257px;
+    top: 256.5px;
+    left: 256.5px;
 }
 .sb{
-    top: 84.5%;
-    left: 257px;
+    top: 284.5px;
+    left: 256.5px;
 }
+
 .mp{
-    top: 92.5%;
-    left: 257px;
+    top: 312.5px;
+    left: 256.5px;
 }
+
 .logo{
     position: absolute;
     z-index: -1;
@@ -133,25 +135,4 @@ input{
 .box{
     color: rgba(61, 22, 201, 0.753);
     font-weight: 700;
-}
-.help{
-    position: absolute;
-    z-index: 999;
-    top: 0;
-    right: 0;
-    cursor:pointer
-}
-.helptxt{
-    position: absolute;
-    z-index: 998;
-    top: 1%;
-    right: 8%;
-    border: solid 1px #000;
-    background-color: #fff;
-    font-size: 12px;
-    visibility:hidden;
-    font-weight: 700;
-}
-.help:hover +.helptxt{
-    visibility: visible;
 }
