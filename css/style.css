@@ -77,7 +77,7 @@
     color: #FFF;
     border:0;
     z-index: 999;
-   
+    height: 14px;
     text-align: center;
     font-size: 12px;
     line-height: 12px;
@@ -85,46 +85,46 @@
 }
 .gjl{
     left: 95.5px;
-    top: 51%;
+    top: 51.7%;
 }
 .sm{
     left:95.5px;
-    top: 59.2%;
+    top: 59.9%;
 }
 .bj{
     left:95.5px;
-    top: 67.5%;
+    top: 67.9%;
 }
 .lq{
     left:95.5px;
-    top: 75.6%;
+    top: 76.1%;
 }
 .cj{
     left:95.5px;
-    top: 84%;
+    top: 84.1%;
 }
 .hp{
     left:95.5px;
     top: 92.2%;
 }
 .hjz{
-    top: 51%;
+    top: 51.7%;
     left: 257.5px;
 }
 .nengl{
-    top: 59.2%;
+    top: 59.9%;
     left: 257.5px;
 }
 .bs{
-    top: 67.5%;
+    top: 67.9%;
     left: 257.5px;
 }
 .jn{
-    top: 75.6%;
+    top: 76.1%;
     left: 257.5px;
 }
 .sb{
-    top: 84%;
+    top: 84.1%;
     left: 257.5px;
 }
 .mp{
@@ -134,7 +134,7 @@
 .logo{
     position: absolute;
     z-index: -1;
-    top: -15px;
+    top: 0;
     left: 50%;
     transform: translate(-50%,0);
     margin: 0 auto;
