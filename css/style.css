@@ -68,6 +68,7 @@
 }
 .box{
     margin-right: 0;
+    -webkit-user-select:text !important;
 }
 .sx{
     position: absolute;
