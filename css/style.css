@@ -68,59 +68,59 @@
     color: #FFF;
     border:0;
     z-index: 999;
-    height: 16px;
+    height: 15px;
     text-align: center;
-    font-size: 13px;
-    line-height: 13px;
+    font-size: 12px;
+    line-height: 15px;
     
 }
 .gjl{
-    left: 95px;
-    top: 50.6%;
+    left: 95.5px;
+    top: 50.8%;
 }
 .sm{
-    left: 95px;
-    top: 58.6;
+    left:95.5px;
+    top: 59%;
 }
 .bj{
-    left: 95px;
-    top: 67.4%;
+    left:95.5px;
+    top: 67.1%;
 }
 .lq{
-    left: 95px;
-    top: 75.2%;
+    left:95.5px;
+    top: 75.3%;
 }
 .cj{
-    left: 95px;
+    left:95.5px;
     top: 83.4%;
 }
 .hp{
-    left: 95px;
+    left:95.5px;
     top: 91.7%;
 }
 .hjz{
-    top: 50.6%;
-    left: 257px;
+    top: 50.8%;
+    left: 257.5px;
 }
 .nengl{
-    top: 58.6;
-    left: 257px;
+    top: 59%;
+    left: 257.5px;
 }
 .bs{
-    top: 67.4%;
-    left: 257px;
+    top: 67.1%;
+    left: 257.5px;
 }
 .jn{
-    top: 75.2%;
-    left: 257px;
+    top: 75.3%;
+    left: 257.5px;
 }
 .sb{
     top: 83.4%;
-    left: 257px;
+    left: 257.5px;
 }
 .mp{
     top: 91.7%;
-    left: 257px;
+    left: 257.5px;
 }
 .logo{
     position: absolute;
