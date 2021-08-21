@@ -58,20 +58,20 @@
         mjz = mj.value;
         nlz = nl.value;
         if(zs.classList.contains('bk')){
-            gjl.textContent = (llz*(1.7*num)+nlz*(0.3*num))/num;
+            gjl.textContent = (llz*(1.7*num)+nlz*(0.5*num))/num;
             hp.textContent = (llz*(0.2*num)+nlz*(0.2*num))/num;
             lq.textContent = (zlz*(0.03*num))/num+'%';
             nengl.textContent = (zlz*(0.2*num))/num;
-            sm.textContent = zlz*5+llz*10+nlz*13;
+            sm.textContent = zlz*5+llz*10+nlz*16;
             sb.textContent = (mjz*(0.04*num))/num+'%';
             cj.textContent = (mjz*(0.04*num))/num+'%';
             bj.textContent = (mjz*(0.02*num)+llz*(0.04*num))/num+'%';
             hjz.textContent = (nlz*(0.5*num)+llz*(0.2*num))/num;
         }if(fs.classList.contains('bk')){        
-            sm.textContent = llz*4+zlz*4+nlz*8;
+            sm.textContent = llz*4+zlz*4+nlz*10;
             hp.textContent = (llz*(0.05*num)+nlz*(0.1*num))/num;
             jn.textContent = (zlz*(0.06*num))/num;
-            gjl.textContent = (zlz*(1.7*num)+llz*(0.4*num))/num;
+            gjl.textContent = (zlz*(1.7*num)+llz*(0.4*num)+nlz*(0.3*num))/num;
             nengl.textContent = zlz*2;
             lq.textContent = (zlz*(0.06*num))/num+'%';
             sb.textContent =( mjz*(0.04*num))/num+'%';
@@ -79,8 +79,8 @@
             cj.textContent = (mjz*(0.02*num))/num+'%';
             hjz.textContent = (nlz*(0.4*num))/num;
         }if(ss.classList.contains('bk')){
-            sm.textContent = llz*4+mjz*5+nlz*8;
-            gjl.textContent = (llz*(0.5*num)+ mjz*(1.7*num))/num;
+            sm.textContent = llz*4+mjz*5+nlz*10;
+            gjl.textContent = (llz*(0.5*num)+mjz*(1.7*num)+nlz*(0.3*num))/num;
             hp.textContent =( llz*(0.05*num)+nlz*(0.1*num))/num;
             bs.textContent = (llz*(0.05*num))/num+'%';
             nengl.textContent =( zlz*(0.4*num))/num;
