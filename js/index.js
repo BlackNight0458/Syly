@@ -58,7 +58,7 @@
         mjz = mj.value;
         nlz = nl.value;
         if(zs.classList.contains('bk')){
-            gjl.textContent = (llz*(1.7*num)+nlz*(0.5*num))/num;
+            gjl.textContent = (llz*(1.7*num)+nlz*(0.5*num)+mjz*(0.3*num))/num;
             hp.textContent = (llz*(0.2*num)+nlz*(0.2*num))/num;
             lq.textContent = (zlz*(0.03*num))/num+'%';
             nengl.textContent = (zlz*(0.2*num))/num;
