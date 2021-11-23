@@ -59,10 +59,10 @@
         nlz = nl.value;
         if(zs.classList.contains('bk')){
             gjl.textContent = (llz*(1.7*num)+nlz*(0.5*num)+mjz*(0.3*num))/num;
-            hp.textContent = (llz*(0.2*num)+nlz*(0.2*num))/num;
+            hp.textContent = (llz*(0.2*num)+nlz*(0.1*num))/num;
             lq.textContent = (zlz*(0.03*num))/num+'%';
             nengl.textContent = (zlz*(0.2*num))/num;
-            sm.textContent = zlz*5+llz*10+nlz*16;
+            sm.textContent = llz*9+zlz*5+nlz*16;
             sb.textContent = (mjz*(0.04*num))/num+'%';
             cj.textContent = (mjz*(0.04*num))/num+'%';
             bj.textContent = (mjz*(0.02*num)+llz*(0.04*num))/num+'%';
@@ -75,18 +75,18 @@
             nengl.textContent = zlz*2;
             lq.textContent = (zlz*(0.06*num))/num+'%';
             sb.textContent =( mjz*(0.04*num))/num+'%';
-            bj.textContent = (mjz*(0.03*num)+zlz*(0.03*num))/num+'%';
-            cj.textContent = (mjz*(0.02*num))/num+'%';
+            bj.textContent = (mjz*(0.01*num)+zlz*(0.02*num))/num+'%';
+            cj.textContent = (mjz*(0.03*num))/num+'%';
             hjz.textContent = (nlz*(0.4*num))/num;
         }if(ss.classList.contains('bk')){
-            sm.textContent = llz*4+mjz*5+nlz*10;
-            gjl.textContent = (llz*(0.5*num)+mjz*(1.7*num)+nlz*(0.3*num))/num;
+            sm.textContent = llz*5+mjz*7+nlz*12;
+            gjl.textContent = (llz*(0.5*num)+mjz*(1.7*num)+nlz*(0.4*num))/num;
             hp.textContent =( llz*(0.05*num)+nlz*(0.1*num))/num;
-            bs.textContent = (llz*(0.05*num))/num+'%';
+            bs.textContent = (llz*(0.06*num)+mjz*(0.07*num))/num+'%';
             nengl.textContent =( zlz*(0.4*num))/num;
             sb.textContent = (zlz*(0.02*num)+mjz*(0.03*num))/num+'%';
             lq.textContent =( zlz*(0.04*num))/num+'%';
-            cj.textContent =( mjz*(0.03*num))/num+'%';
+            cj.textContent =( mjz*(0.02*num))/num+'%';
             bj.textContent = (mjz*(0.06*num))/num+'%';
             hjz.textContent = (nlz*(0.4*num))/num;   
         }
