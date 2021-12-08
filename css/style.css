@@ -78,7 +78,6 @@ body,html{
 .sx{
     position: absolute;
     width: 55px;
-    background-color: rgb(85,85,85);
     color: #FFF;
     border:0;
     z-index: 999;
