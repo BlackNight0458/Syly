@@ -68,16 +68,18 @@
             bj.textContent = (mjz*(0.02*num)+llz*(0.04*num))/num+'%';
             hjz.textContent = (nlz*(0.5*num)+llz*(0.2*num))/num;
         }if(fs.classList.contains('bk')){        
-            sm.textContent = llz*4+zlz*4+nlz*10;
+            sm.textContent = llz*5+zlz*6+nlz*10;
             hp.textContent = (llz*(0.05*num)+nlz*(0.1*num))/num;
-            jn.textContent = (zlz*(0.06*num))/num;
+            jn.textContent = (zlz*(0.07*num))/num;
             gjl.textContent = (zlz*(1.7*num)+llz*(0.4*num)+nlz*(0.3*num))/num;
             nengl.textContent = zlz*2;
-            lq.textContent = (zlz*(0.06*num))/num+'%';
+            lq.textContent = (zlz*(0.05*num))/num+'%';
             sb.textContent =( mjz*(0.04*num))/num+'%';
-            bj.textContent = (mjz*(0.01*num)+zlz*(0.02*num))/num+'%';
+            bj.textContent = (mjz*(0.02*num)+zlz*(0.03*num))/num+'%';
             cj.textContent = (mjz*(0.03*num))/num+'%';
             hjz.textContent = (nlz*(0.4*num))/num;
+            bs.textContent = (llz*(0.03*num))/num+'%';
+            cj.textContent = (zlz*(0.01*num)+mjz*(0.03*num))/num+'%';
         }if(ss.classList.contains('bk')){
             sm.textContent = llz*5+mjz*7+nlz*12;
             gjl.textContent = (llz*(0.5*num)+mjz*(1.7*num)+nlz*(0.4*num))/num;
